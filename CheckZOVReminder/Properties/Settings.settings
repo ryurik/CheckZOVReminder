@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CheckZOVReminder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XPathButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.button.suggest2-form__button.button_size_m.button_theme_normal.i-bem.button_js_inited</Value>
+    </Setting>
+    <Setting Name="XPathBlockLinksName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::div[contains(@class, 'serp-block serp-block-')]</Value>
+    </Setting>
+    <Setting Name="XPathUrl0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../descendant-or-self::a[contains(@class, 'b-link serp-url__link')]</Value>
+    </Setting>
+    <Setting Name="XPathUrl1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::a[contains(@class, 'b-link serp-url__link')]</Value>
+    </Setting>
+    <Setting Name="XPathDescription0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../descendant-or-self::div[contains(@class, 'serp-item__text')]</Value>
+    </Setting>
+    <Setting Name="XPathDescription1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::div[contains(@class, 'serp-item__text')]</Value>
+    </Setting>
+    <Setting Name="XPathCheckMyStorySearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/descendant-or-self::input[contains(@name, 'person')]</Value>
+    </Setting>
+    <Setting Name="XPathButtonsSaveSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/descendant-or-self::input[contains(@name, 'save')]</Value>
+    </Setting>
+    <Setting Name="CommandYaDirect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--yadirect</Value>
+    </Setting>
+    <Setting Name="CommandAll" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--all</Value>
+    </Setting>
+    <Setting Name="CommandExcel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--excel</Value>
+    </Setting>
+    <Setting Name="CommandRelatedWords" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--relatedwords</Value>
+    </Setting>
+    <Setting Name="CommandStoreToDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--storetodb</Value>
+    </Setting>
+    <Setting Name="CommandPageAmounts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--pageamounts</Value>
+    </Setting>
+    <Setting Name="CommandAutoRun" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--autorun</Value>
+    </Setting>
+    <Setting Name="CommandAutoClose" Type="System.String" Scope="User">
+      <Value Profile="(Default)">--autoclose</Value>
+    </Setting>
+    <Setting Name="RegionChange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">region-change__content</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="XPathDirect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::div[contains(@class, 'serp-adv__block serp-adv')]</Value>
+    </Setting>
+    <Setting Name="XPathMain0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::a[contains(@class, 'b-link serp-item__title-link')]</Value>
+    </Setting>
+    <Setting Name="XPathADVBlock" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::a[contains(@class, 'b-link serp-item__title-link')]</Value>
+    </Setting>
+    <Setting Name="XPathMain1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">descendant-or-self::div[contains(@class, 'serp-item__wrap clearfix')]</Value>
+    </Setting>
+    <Setting Name="Words" Type="System.String" Scope="User">
+      <Value Profile="(Default)">купить кухню
+купить кухню в %C
+белорусские кухни
+белорусские кухни зов
+кухни в %C
+кухни %C
+кухни зов
+кухни зов %C
+кухни на заказ
+кухни на заказ в %C недорого
+кухня
+купить белорусскую кухню
+белорусские кухни</Value>
+    </Setting>
+    <Setting Name="ChromeDriverPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Work\CheckZOVReminder\chromedriver_win32</Value>
+    </Setting>
+    <Setting Name="PathToRegions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Work\CheckZOVReminder\CheckZOVReminder\Regions.xlsx</Value>
+    </Setting>
+    <Setting Name="Regions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Москва
+Санкт-Петербург
+Тула
+Тверь
+Тольятти
+Рязань
+Нижний Новгород
+! Гуринович !
+Липецк
+Ярославль
+Курск
+Самара</Value>
+    </Setting>
+    <Setting Name="NextButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">button button_counter_yes button_pseudo_yes button_theme_pseudo button_size_s b-link b-link_pseudo_yes i-bem button_js_inited</Value>
+    </Setting>
+    <Setting Name="NextButtonText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Следующая</Value>
+    </Setting>
+    <Setting Name="RegionValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Регион</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
